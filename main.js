@@ -122,6 +122,8 @@ class Esphome extends utils.Adapter {
 				}
 			});
 
+
+			
 			// dashboardProcess.kill();
 
 		} catch (e) {
